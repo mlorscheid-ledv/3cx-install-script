@@ -22,4 +22,6 @@ sudo apt install -y git
 git clone https://github.com/mlorscheid-ledv/3cx-install-script.git
 cd 3cx-install-script
 chmod +x install-3cx.sh
+sudo apt install -y dos2unix
+dos2unix install-3cx.sh
 sudo ./install-3cx.sh
