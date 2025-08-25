@@ -17,6 +17,8 @@ Erstellt von **Lorscheid-EDV UG (haftungsbeschränkt)**.
 
 ### 1. Repository klonen und ausführen
 ```bash
+sudo apt update
+sudo apt install -y git
 git clone https://github.com/mlorscheid-ledv/3cx-install-script.git
 cd 3cx-install-script
 chmod +x install-3cx.sh
