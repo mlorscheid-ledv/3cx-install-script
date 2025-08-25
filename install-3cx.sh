@@ -12,7 +12,7 @@
 
 set -e
 
-echo "=== 3CX Installationsskript von Lorscheid-EDV UG (haftungsbeschränkt) ==="
+echo "=== 3CX Installationsskript der Lorscheid-EDV UG (haftungsbeschränkt) ==="
 echo "Website: https://www.lorscheid-edv.de | Support: info@lorscheid-edv.de"
 echo "---------------------------------------------------------------"
 
@@ -37,6 +37,7 @@ apt install -y 3cxpbx
 
 echo "---------------------------------------------------------------"
 echo "Installation abgeschlossen!"
-echo "Erstellt von Lorscheid-EDV UG (haftungsbeschränkt)"
+echo "Erstellt von der Lorscheid-EDV UG (haftungsbeschränkt)"
 echo "Besuchen Sie uns unter https://www.lorscheid-edv.de"
 echo "---------------------------------------------------------------"
+
